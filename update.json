@@ -3,5 +3,5 @@
   "update_title": "New Update Available",
   "update_message": "A new version of the app is available. Please update to continue.",
   "update_size": "15 MB",
-  "version_code": 2 // Increment this value for each new release
+  "version_code": 2 
 }
