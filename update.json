@@ -1,4 +1,7 @@
 {
-  "versionCode": 1,
-  "versionCodeLite": 1
+  "apk_url": "https://desiesp.in/new-version.apk",
+  "update_title": "New Update Available",
+  "update_message": "A new version of the app is available. Please update to continue.",
+  "update_size": "15 MB",
+  "version_name": "3.3.6"
 }
